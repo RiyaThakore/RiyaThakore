@@ -13,4 +13,4 @@ I am a developer and researcher who is passionate about deep learning and data s
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RiyaThakore)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameRiyaThakore&langs_count=3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameRiyaThakore&langs_count=3)](https://github.com/RiyaThakore)
