@@ -11,6 +11,6 @@ I am a developer and researcher who is passionate about deep learning and data s
 - 📫 Visit my [portfolio website](https://riyathakore.github.io/) for background overview.
 - 😄 She/Her
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RiyaThakore)
+![Riya github stats](https://github-readme-stats.vercel.app/api?username=RiyaThakore&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameRiyaThakore&langs_count=3)](https://github.com/RiyaThakore)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaThakore)](https://github.com/RiyaThakore/)
