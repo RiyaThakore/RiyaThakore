@@ -10,3 +10,6 @@ I am a developer and researcher who is passionate about deep learning and data s
 - 🤔 I’m looking for help with open source projects and in-depth research proposals in the field of application of Deep Learning.
 - 📫 Visit my [portfolio website](https://riyathakore.github.io/) for background overview.
 - 😄 She/Her
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RiyaThakore)
+
