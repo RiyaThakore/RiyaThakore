@@ -7,7 +7,7 @@ I see myself as a candidate with experience in working in a fast-paced, dynamic 
 
 
 - 🔭 I'm currently working on enhancing my existing skillsets in field of data science, data engineering and machine learning.
-- 📫 Visit my [portfolio website](https://riyathakore.github.io/) for background overview.
+- 📫 Visit my [portfolio website](https://riyathakore.github.io/) for background overview. [outdated]
 - 😄 She/Her
 
 ![Riya github stats](https://github-readme-stats.vercel.app/api?username=RiyaThakore&theme=radical&show_icons=true)
